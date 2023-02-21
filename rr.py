@@ -1,6 +1,5 @@
 def main():
 	name  = "rr"
-	age = 19
+	age
 	print("Name is "+name+" and age is "+age)
 
-main()
