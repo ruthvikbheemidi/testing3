@@ -1,4 +1,6 @@
 def main():
-	print("This is rr project!")
+	name  = "rr"
+	age = 19
+	print("Name is "+rr+" and age is "+age)
 
 main()
