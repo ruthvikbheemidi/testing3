@@ -1,4 +1,6 @@
 void main() {
   String name = "settings";
-	print("${name} page code.");
+  int age = 19;
+  bool isYoung = true;
+  print("${name} page code.");
 }
